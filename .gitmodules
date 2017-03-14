@@ -1,4 +1,4 @@
-[submodule "submodules/PulseRain_rtl_lib"]
-	path = submodules/PulseRain_rtl_lib
+[submodule "PulseRain_rtl_lib"]
+	path = PulseRain_rtl_lib
 	url = https://github.com/PulseRain/PulseRain_rtl_lib.git
 	branch = 0.1
